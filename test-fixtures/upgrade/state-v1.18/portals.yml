@@ -1,6 +1,39 @@
+# title_filter:
+#   positive: ["platform engineer", "devops", "sre", "infrastructure"]
+#   negative: ["intern", "junior"]
+# companies:
+#   - name: ExampleSoft
+#     ats: greenhouse
+#     slug: examplesoft
+#   - name: Initech
+#     ats: lever
+#     slug: initech
+#   - name: Umbrella Cloud
+#     ats: ashby
+#     slug: umbrella-cloud
+
 title_filter:
-  positive: ["platform engineer", "devops", "sre", "infrastructure"]
-  negative: ["intern", "junior"]
+  positive:
+    - "frontend developer"
+    - "react developer"
+    - "ui developer"
+    - "web developer"
+    - "javascript developer"
+    - "mern developer"
+    - "software engineer"
+
+  negative:
+    - "intern"
+    - "senior"
+    - "manager"
+    - "lead"
+
+location_filter:
+  allow:
+    - "Bangalore"
+    - "Bengaluru"
+    - "Chennai"
+
 companies:
   - name: ExampleSoft
     ats: greenhouse
