@@ -1,3 +1,6 @@
+
+
+
 # Applications Tracker
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
@@ -8,3 +11,4 @@
 | 4 | 2026-06-27 | Umbrella Cloud | Platform Engineer | 4.0/5 | Evaluated | ❌ | — | Awaiting decision |
 | 5 | 2026-06-28 | Hooli | DevOps Lead | 3.8/5 | Rejected | ✅ | — | Auto-rejection day 2 |
 | 6 | 2026-06-30 | Stark Industries | Infrastructure Engineer | 4.1/5 | Applied | ✅ | — | Follow-up due 2026-07-07 |
+
